@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\rss_project\\rss_feed\\rss_feed\\rss_feed.csproj": {}
+    "D:\\rss_project\\Xml_rss_feed\\rss_feed\\rss_feed\\rss_feed.csproj": {}
   },
   "projects": {
-    "D:\\rss_project\\rss_feed\\rss_feed\\rss_feed.csproj": {
+    "D:\\rss_project\\Xml_rss_feed\\rss_feed\\rss_feed\\rss_feed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\rss_project\\rss_feed\\rss_feed\\rss_feed.csproj",
+        "projectUniqueName": "D:\\rss_project\\Xml_rss_feed\\rss_feed\\rss_feed\\rss_feed.csproj",
         "projectName": "rss_feed",
-        "projectPath": "D:\\rss_project\\rss_feed\\rss_feed\\rss_feed.csproj",
+        "projectPath": "D:\\rss_project\\Xml_rss_feed\\rss_feed\\rss_feed\\rss_feed.csproj",
         "packagesPath": "C:\\Users\\cheva\\.nuget\\packages\\",
-        "outputPath": "D:\\rss_project\\rss_feed\\rss_feed\\obj\\",
+        "outputPath": "D:\\rss_project\\Xml_rss_feed\\rss_feed\\rss_feed\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cheva\\AppData\\Roaming\\NuGet\\NuGet.Config",

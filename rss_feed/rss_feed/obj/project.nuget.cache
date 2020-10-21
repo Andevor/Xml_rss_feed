@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HG0vSIS2EdthRsdj9ePYOn8QM+93rEl59w2ML16A8R65EAXA3/tg6TyKJmVvQITptKX71tPDr8Tuo67HLSM5Sw==",
+  "dgSpecHash": "aQ6S49GDQ7wYg/wm/4aVFk89qjpTDIajgKGED5fKRR4VQg7/2knPzdEZJVEZyFINbbiNkkhfPpFpT+GkQCo4oA==",
   "success": true,
-  "projectFilePath": "D:\\rss_project\\rss_feed\\rss_feed\\rss_feed.csproj",
+  "projectFilePath": "D:\\rss_project\\Xml_rss_feed\\rss_feed\\rss_feed\\rss_feed.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

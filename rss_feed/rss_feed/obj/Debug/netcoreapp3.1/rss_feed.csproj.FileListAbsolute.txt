@@ -1,0 +1,13 @@
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\bin\Debug\netcoreapp3.1\rss_feed.exe
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\bin\Debug\netcoreapp3.1\rss_feed.deps.json
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\bin\Debug\netcoreapp3.1\rss_feed.runtimeconfig.json
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\bin\Debug\netcoreapp3.1\rss_feed.runtimeconfig.dev.json
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\bin\Debug\netcoreapp3.1\rss_feed.dll
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\bin\Debug\netcoreapp3.1\rss_feed.pdb
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\obj\Debug\netcoreapp3.1\rss_feed.csprojAssemblyReference.cache
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\obj\Debug\netcoreapp3.1\rss_feed.AssemblyInfoInputs.cache
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\obj\Debug\netcoreapp3.1\rss_feed.AssemblyInfo.cs
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\obj\Debug\netcoreapp3.1\rss_feed.csproj.CoreCompileInputs.cache
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\obj\Debug\netcoreapp3.1\rss_feed.dll
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\obj\Debug\netcoreapp3.1\rss_feed.pdb
+D:\rss_project\Xml_rss_feed\rss_feed\rss_feed\obj\Debug\netcoreapp3.1\rss_feed.genruntimeconfig.cache
