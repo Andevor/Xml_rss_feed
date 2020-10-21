@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Xml.Linq;
 
 namespace rss_feed
 {
@@ -27,11 +26,38 @@ namespace rss_feed
             //Console.WriteLine("Telex News:");
             //telex.Root.Descendants("item").Select(x => x.Element("title").Value).ToList().ForEach(x => Console.WriteLine(x));
 
-            List<RSS> bbc = RSS.LoadXml("bbc.xml");
+            //List<RSS> bbc = RSS.LoadXml("bbc.xml");
+            List<RSS> bbc = RSS.LoadXml("http://feeds.bbci.co.uk/news/world/europe/rss.xml");
+            //foreach (RSS item in bbc)
+            //{
+            //    Console.WriteLine(item);
+            //}
 
-            foreach (RSS item in bbc)
+            bbc.Where(x => x.PubDate.Hour == 12).Select(x => x.Link).ToList().ForEach(x => Console.WriteLine(x));
+
+            //var links = bbc.Where(x => x.Title.Contains("Coronavirus")).Select(x => x.Link).ToList();
+
+            var covid = bbc.Where(x => x.Title.Contains("Coronavirus")).Count();
+
+            Console.WriteLine("Number of Covid news: " + covid);
+            //foreach (string item in links)
+            //{
+            //    var psi = new ProcessStartInfo
+            //    {
+            //        FileName = item,
+            //        UseShellExecute = true
+            //    };
+            //    Process.Start(psi);
+            //}
+
+            List<RSS> index = RSS.LoadXml("https://index.hu/24ora/rss/");
+
+            foreach (RSS item in index)
             {
-                Console.WriteLine(item);
+                if (item.Title.Contains("korona"))
+                {
+                    Console.WriteLine(item);
+                }
             }
 
             Console.ForegroundColor = ConsoleColor.White;
