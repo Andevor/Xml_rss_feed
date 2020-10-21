@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Europe]]></title>
+        <description><![CDATA[BBC News - Europe]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Europe</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 20 Oct 2020 08:14:01 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[France teacher attack: Four pupils held over beheading]]></title>
+            <description><![CDATA[In all, 15 people are now in custody after the murder of teacher Samuel Paty near Paris.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54598546</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54598546</guid>
+            <pubDate>Mon, 19 Oct 2020 20:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Republic of Ireland to move to highest restrictions]]></title>
+            <description><![CDATA[The new rules, broadly similar to the spring lockdown, are due to last for six weeks.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54596783</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54596783</guid>
+            <pubDate>Mon, 19 Oct 2020 22:52:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Russian hackers targeted Games, UK says]]></title>
+            <description><![CDATA[UK officials say Russian intelligence took aim at the 2020 Olympics before they were delayed.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54600098</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54600098</guid>
+            <pubDate>Mon, 19 Oct 2020 18:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Germany improves ventilation to chase away Covid]]></title>
+            <description><![CDATA[Public buildings receive €500m of German state cash to improve ventilation systems.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54599593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54599593</guid>
+            <pubDate>Mon, 19 Oct 2020 13:47:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Belgium facing 'tsunami' of new infections]]></title>
+            <description><![CDATA[The country is close to being overwhelmed as the number of cases soars, the health minister warns.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54602999</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54602999</guid>
+            <pubDate>Mon, 19 Oct 2020 14:10:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: UK calls for change as EU makes trade talks pledge]]></title>
+            <description><![CDATA[No 10 says there is "no basis to resume talks" without changes, after the EU offers to "intensify" talks.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54603995</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54603995</guid>
+            <pubDate>Mon, 19 Oct 2020 17:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bank boss: UK facing 'unprecedented economic uncertainty']]></title>
+            <description><![CDATA[Bank of England governor Andrew Bailey warns there is significant risk of lower economic growth.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54594356</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54594356</guid>
+            <pubDate>Mon, 19 Oct 2020 08:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wild boar family killed by police in Rome children's playground]]></title>
+            <description><![CDATA[The city's mayor orders an investigation amid outrage from residents and animal rights groups.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54599913</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54599913</guid>
+            <pubDate>Mon, 19 Oct 2020 11:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Northern Cyprus: Right-wing nationalist Ersin Tatar elected president]]></title>
+            <description><![CDATA[Ersin Tatar, who is pro-Turkey and wants Cyprus to be two separate states, is elected president.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54594702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54594702</guid>
+            <pubDate>Mon, 19 Oct 2020 06:56:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU investigates Instagram over handling of children's data]]></title>
+            <description><![CDATA[Facebook could face a large fine if Instagram is found to have broken European Union privacy laws.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54594825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54594825</guid>
+            <pubDate>Mon, 19 Oct 2020 01:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Young child among migrants crossing the English Channel]]></title>
+            <description><![CDATA[Dozens of people make the crossing in small boats as winds increase in the English Channel.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-54606353</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-54606353</guid>
+            <pubDate>Tue, 20 Oct 2020 06:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Firms urged to get ready for new EU relationship]]></title>
+            <description><![CDATA[The government campaign says "Time is running out", but firms say many unanswered questions remain.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54592246</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54592246</guid>
+            <pubDate>Mon, 19 Oct 2020 06:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samuel Paty: Beheading of teacher deepens divisions over France's secular identity]]></title>
+            <description><![CDATA[Mass rallies over the murder of a teacher mask growing dissent over the country's secular identity.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54602171</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54602171</guid>
+            <pubDate>Mon, 19 Oct 2020 23:16:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bletchley Park’s contribution to WW2 'over-rated']]></title>
+            <description><![CDATA[The code-breaking hub is not "the war winner" many people think it is, says a history of spy agency GCHQ.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54604895</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54604895</guid>
+            <pubDate>Mon, 19 Oct 2020 23:46:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sleeping giants to host Messi and Ronaldo]]></title>
+            <description><![CDATA[Ferencvaros, once one of Europe's most revered sides, are the sleeping giants set to welcome Lionel Messi and Cristiano Ronaldo.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54528031</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54528031</guid>
+            <pubDate>Mon, 19 Oct 2020 23:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portugal's radical move to decriminalise all drugs]]></title>
+            <description><![CDATA[How Portugal became the first country to decriminalise all drugs for personal use]]></description>
+            <link>https://www.bbc.co.uk/news/stories-54537419</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-54537419</guid>
+            <pubDate>Thu, 15 Oct 2020 23:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viewpoint: Why Turkey is flexing its muscles abroad]]></title>
+            <description><![CDATA[Turkey's engagement in the Southern Caucasus is only the latest venture in a tougher foreign policy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54547304</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54547304</guid>
+            <pubDate>Thu, 15 Oct 2020 23:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lesbos: What really happened in the refugee camp destroyed by flames?]]></title>
+            <description><![CDATA[BBC Newsnight looks into the origins of the fire that destroyed Europe's largest refugee camp.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54576310</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54576310</guid>
+            <pubDate>Sat, 17 Oct 2020 23:03:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany pulls fresh air into fight against Covid]]></title>
+            <description><![CDATA[The German government is investing heavily in air purifiers to help curb the spread of coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54599598</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54599598</guid>
+            <pubDate>Mon, 19 Oct 2020 14:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is sainthood on the cards for a computer programmer?]]></title>
+            <description><![CDATA[A computer programmer’s beatification could lead to the world’s first millennial saint.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54576422</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54576422</guid>
+            <pubDate>Sun, 18 Oct 2020 10:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Azerbaijan at war: Reporter’s journal]]></title>
+            <description><![CDATA[A BBC team spent a week looking at the Nagorno-Karabakh conflict from the Azerbaijani side.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54577561</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54577561</guid>
+            <pubDate>Fri, 16 Oct 2020 23:18:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Is Sweden getting it right?]]></title>
+            <description><![CDATA[The BBC's Ros Atkins looks at one country that has been an outlier from the start of the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54561201</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54561201</guid>
+            <pubDate>Thu, 15 Oct 2020 23:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Dutch drinkers party before new Covid rules kick in]]></title>
+            <description><![CDATA[Hospitality industry put under stricter coronavirus rules in the Netherlands.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54551673</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54551673</guid>
+            <pubDate>Thu, 15 Oct 2020 11:32:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

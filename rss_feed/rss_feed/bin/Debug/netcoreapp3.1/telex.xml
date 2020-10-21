@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Telex.hu RSS feed</title>
+        <link>https://telex.hu/rss</link>
+        <description>Newest articles at telex.hu.</description>
+        <lastBuildDate>Tue, 20 Oct 2020 07:52:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Minden eddiginél több, 38 beteg halt meg]]></title>
+            <link>https://telex.hu/koronavirus/2020/10/20/koronavirus-fertozes-jarvany-magyarorszag-napi-adat</link>
+            <guid>https://telex.hu/koronavirus/2020/10/20/koronavirus-fertozes-jarvany-magyarorszag-napi-adat</guid>
+            <pubDate>Tue, 20 Oct 2020 07:32:33 GMT</pubDate>
+            <description><![CDATA[989 új fertőzött egy nap alatt, 32,9 ezerre nőtt az aktív fertőzöttek száma.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Nagyon dzsuvás volt minden a távol-keleti étteremben, bezáratta a hatóság]]></title>
+            <link>https://telex.hu/gazdasag/2020/10/20/vendeglatas-elelmiszer-tavol-keleti-etterem-nebih-bezarat</link>
+            <guid>https://telex.hu/gazdasag/2020/10/20/vendeglatas-elelmiszer-tavol-keleti-etterem-nebih-bezarat</guid>
+            <pubDate>Tue, 20 Oct 2020 07:20:52 GMT</pubDate>
+            <description><![CDATA[350 kiló élelmiszert foglaltak le, undort keltő folyadékot is találtak.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ismerőseivel szabadult volna meg a holttesttől a férfi, aki bankkártyájáért akarta megölni barátját]]></title>
+            <link>https://telex.hu/belfold/2020/10/20/emberolesi-kiserlet-borton</link>
+            <guid>https://telex.hu/belfold/2020/10/20/emberolesi-kiserlet-borton</guid>
+            <pubDate>Tue, 20 Oct 2020 07:19:22 GMT</pubDate>
+            <description><![CDATA[A férfi két évet kapott emberölés előkészülete miatt.
+]]></description>
+            <content:encoded><![CDATA[Jogerősen két év börtönbüntetést kapott egy férfi, aki több ismerősét is megpróbálta belevonni barátja megölésébe. A férfit emberölés előkészülete miatt ítéleték el.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A TikTok is lecsapott a QAnonra]]></title>
+            <link>https://telex.hu/tech/2020/10/20/pakisztan-tiktok-tiltas-feloldas-qanon</link>
+            <guid>https://telex.hu/tech/2020/10/20/pakisztan-tiktok-tiltas-feloldas-qanon</guid>
+            <pubDate>Tue, 20 Oct 2020 07:10:47 GMT</pubDate>
+            <description><![CDATA[Eközben Pakisztánban tíz napra betiltották az alkalmazást, de végül megkegyelmeztek – pedig ők az egyik legszabályszegőbb ország.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kijött a Mandalorian második évadának új trailere, Baby Yoda fülei is ott ágaskodnak az előzetesben]]></title>
+            <link>https://telex.hu/szorakozas/2020/10/20/mandalorian-star-wars-sorozat</link>
+            <guid>https://telex.hu/szorakozas/2020/10/20/mandalorian-star-wars-sorozat</guid>
+            <pubDate>Tue, 20 Oct 2020 06:56:08 GMT</pubDate>
+            <description><![CDATA[A producerek szerint az előző évadhoz képest több szálon fut majd a cselekmény.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Laár András elképedt, amikor meglátta Besenyő Pista bácsit a Párbeszéd plakátján]]></title>
+            <link>https://telex.hu/belfold/2020/10/20/besenyo-pista-bacsi-parbeszed-magyarorszagert-laar-andras</link>
+            <guid>https://telex.hu/belfold/2020/10/20/besenyo-pista-bacsi-parbeszed-magyarorszagert-laar-andras</guid>
+            <pubDate>Tue, 20 Oct 2020 06:45:00 GMT</pubDate>
+            <description><![CDATA[Laár András egy Facebook-bejegyzésben határolódott el a párt online plakátjától.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Használt autók: 852 Porschét, 18 Ferrarit, 5 Rolls-Royce-t és 3 Lamborghinit is eladtak a járvány alatt]]></title>
+            <link>https://telex.hu/gazdasag/2020/10/20/auto-ferrari-porsche-lamborghini-hasznalt-eladas</link>
+            <guid>https://telex.hu/gazdasag/2020/10/20/auto-ferrari-porsche-lamborghini-hasznalt-eladas</guid>
+            <pubDate>Tue, 20 Oct 2020 06:17:43 GMT</pubDate>
+            <description><![CDATA[A DasWeltAuto szerint a legtöbben alsó középkategóriájú autókat kerestek, de a luxusautók piacán is volt eladás.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Limfómával kezelik Jeff Bridgest]]></title>
+            <link>https://telex.hu/kult/2020/10/20/jeff-bridges-limfoma</link>
+            <guid>https://telex.hu/kult/2020/10/20/jeff-bridges-limfoma</guid>
+            <pubDate>Tue, 20 Oct 2020 06:13:49 GMT</pubDate>
+            <description><![CDATA[A nagy Lebowski sztárja szerint jók a kilátásai.]]></description>
+            <content:encoded><![CDATA[Limfómával kezelik a 70 éves Jeff Bridgest, ezt a színész maga jelentette be a Twitteren. A nagy Lebowski sztárja szerint bár komoly betegségről van szó, jók a kilátásai.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Karácsony Gergely: Ki akarják törni a nyakunkat]]></title>
+            <link>https://telex.hu/interju/2020/10/20/karacsony-gergely-interju</link>
+            <guid>https://telex.hu/interju/2020/10/20/karacsony-gergely-interju</guid>
+            <pubDate>Tue, 20 Oct 2020 05:45:55 GMT</pubDate>
+            <description><![CDATA["Ma nem látom magam más szerepben, mint a megválasztott főpolgármesterében, mást nem is kíván egyetlen porcikám sem", jelentette ki a Telexnek Karácsony Gergely. Beszélt ugyanakkor az ellenzéki kormányfőjelölt-keresésről, osztályozta saját és a budapesti koalíció első évét, és megkérdeztük, miért támogatott egy judapestező jobbikos politikust. ]]></description>
+            <content:encoded><![CDATA[Karácsony Gergely állítja, egyetlen porcikája sem kívánja a miniszterelnökséget, és arra biztat mindenkit, akiben van ambíció az ország vezetésére, hogy induljon el a miniszterelnök-jelölti előválasztáson. Beszélt ugyanakkor arról is, hogy miért nem száll ki a pártpolitikából, és hogy ami most zajlik az önkormányzatok és a kormány között, az szerinte politikailag a Fidesznek csak ártalmas. Szó volt Gyurcsányról, a judapestező összellenzéki szerencsi jelöltről, de a fővárosnál maradva a Bubiról, a Tiborcz-adóról, az ingyen-BKV-ról, és a vírus elleni védekezésről is. Interjú.]]></content:encoded>
+            <enclosure url="https://telex.hu/uploads/img-cache/1/6/0/3/1/1603126786-temp-dmiaoo-20201019-600-400-zc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Autóval kergették hétfőn a Miskolcra tévedt medvét]]></title>
+            <link>https://telex.hu/belfold/2020/10/20/autoval-kergettek-hetfon-a-mikolcra-tevedt-medvet</link>
+            <guid>https://telex.hu/belfold/2020/10/20/autoval-kergettek-hetfon-a-mikolcra-tevedt-medvet</guid>
+            <pubDate>Tue, 20 Oct 2020 05:34:09 GMT</pubDate>
+            <description><![CDATA[Az állatot dudaszóval, autóval kergették, és közben videózták.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meghalt José Padilla, az ikonikus ibizai szórakozóhely DJ-je]]></title>
+            <link>https://telex.hu/kult/2020/10/20/meghalt-jose-padilla-ibizai-dj</link>
+            <guid>https://telex.hu/kult/2020/10/20/meghalt-jose-padilla-ibizai-dj</guid>
+            <pubDate>Tue, 20 Oct 2020 05:26:48 GMT</pubDate>
+            <description><![CDATA[A spanyol lemezlovas 65 éves volt.]]></description>
+            <content:encoded><![CDATA[65 éves korában meghalt José Padilla, az ibizai Cafe del Mar legendás DJ-je, tudatta a lemezlovas családja. A vastagbélrákkal küzdő Padilla vasárnap vesztette életét.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hivatalos, megépül a harmadik terminál Ferihegyen]]></title>
+            <link>https://telex.hu/gazdasag/2020/10/20/ferihegy-harmadik-terminal-budapest-airport</link>
+            <guid>https://telex.hu/gazdasag/2020/10/20/ferihegy-harmadik-terminal-budapest-airport</guid>
+            <pubDate>Tue, 20 Oct 2020 04:56:59 GMT</pubDate>
+            <description><![CDATA[És egymilliárd euróból további fejlesztéseket is terveznek.]]></description>
+            <content:encoded><![CDATA[Először ismerték el hivatalosan, hogy valóban plusz egy terminállal bővülhet a Liszt Ferenc Nemzetközi Repülőtér. Ezt az Mfor tudta meg a repülőteret üzemeltető cégtől, amely azt is elárulta, hogy a harmadik terminál megépítése mellett tervben van egy komolyabb, egymilliárd eurós fejlesztés is, amiből rendbe hoznák a repteret és környékét, illetve új közlekedési csomópontot és a parkolók bővítését is tervezik.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bezuhant a hazai vadászat a járvány miatt]]></title>
+            <link>https://telex.hu/koronavirus/2020/10/20/egyesult-allamok-romlo-jarvanyhelyzet</link>
+            <guid>https://telex.hu/koronavirus/2020/10/20/egyesult-allamok-romlo-jarvanyhelyzet</guid>
+            <pubDate>Tue, 20 Oct 2020 04:30:01 GMT</pubDate>
+            <description><![CDATA[40-50%-os a visszaesés a kiadott engedélyek számában.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kirúgták a vírusszkeptikus orvost a gyöngyösi kórházból]]></title>
+            <link>https://telex.hu/belfold/2020/10/20/gyongyosi-korhaz-virusszkeptikos-orvos-pocs-alfred-kirugas</link>
+            <guid>https://telex.hu/belfold/2020/10/20/gyongyosi-korhaz-virusszkeptikos-orvos-pocs-alfred-kirugas</guid>
+            <pubDate>Tue, 20 Oct 2020 04:21:35 GMT</pubDate>
+            <description><![CDATA[A kirúgott Pócs Alfréd az orvoskamara megyei elnöke is egyben, Ózdon és Salgótarjánban továbbra is dolgozik. ]]></description>
+            <content:encoded><![CDATA[Kirúgták a gyöngyösi Bugát Pál Kórházból dr. Pócs Alfrédot, azt az ortopéd szakorvost, akitől koronavírus-tagadó nézetei és állításai miatt szeptemberben a Magyar Orvosi Kamara is elhatárolódott.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7,5-es erősségű földrengés okozott kisebb cunamit Alaszkánál]]></title>
+            <link>https://telex.hu/kulfold/2020/10/20/alaszka-130-centis-cunami-foldrenges</link>
+            <guid>https://telex.hu/kulfold/2020/10/20/alaszka-130-centis-cunami-foldrenges</guid>
+            <pubDate>Tue, 20 Oct 2020 04:02:19 GMT</pubDate>
+            <description><![CDATA[Két, egyenként 1,3 méteres hullám érte el az amerikai partokat.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Naponta egymillió mikroműanyag jut a csecsemők szervezetébe a műanyag cumisüvegekből]]></title>
+            <link>https://telex.hu/tudomany/2020/10/20/mikromuanyag-cumisuveg-csecsemo</link>
+            <guid>https://telex.hu/tudomany/2020/10/20/mikromuanyag-cumisuveg-csecsemo</guid>
+            <pubDate>Tue, 20 Oct 2020 03:47:15 GMT</pubDate>
+            <description><![CDATA[Szoros kapcsolat van a tápszer melegítése és a mikroműanyag-kibocsátás között.
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Trump levenné Szudánt a terrorizmust támogató államok listájáról]]></title>
+            <link>https://telex.hu/kulfold/2020/10/20/trump-szudan-karterites-terrorizmus</link>
+            <guid>https://telex.hu/kulfold/2020/10/20/trump-szudan-karterites-terrorizmus</guid>
+            <pubDate>Tue, 20 Oct 2020 03:30:27 GMT</pubDate>
+            <description><![CDATA[Az új szudáni kormány 335 millió dollárt fizet ezért.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2020 első fele számokban: rogyadozó gazdaság mellett lassult a népességfogyás]]></title>
+            <link>https://telex.hu/gazdasag/2020/10/20/ksk-megyek-2020-elso-felev-statisztikak-koronavirus</link>
+            <guid>https://telex.hu/gazdasag/2020/10/20/ksk-megyek-2020-elso-felev-statisztikak-koronavirus</guid>
+            <pubDate>Tue, 20 Oct 2020 02:58:38 GMT</pubDate>
+            <description><![CDATA[A KSH friss, megyei bontású adatai megmutatják, hogyan alakultak a koronavírus által durván befolyásolt első fél évben a főbb társadalmi és gazdasági mutatók. Kevesebb halál és több csecsemő mellett fogytunk tovább, kevesebb volt a baleset. Sok lett az álláskereső, de a bérek nőttek tovább, a turizmus gyászos időszakát élte. ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Miért nem illik asztalnál könyökölni?]]></title>
+            <link>https://telex.hu/eszkombajn/2020/10/20/illem-etikett-asztal-konyokles</link>
+            <guid>https://telex.hu/eszkombajn/2020/10/20/illem-etikett-asztal-konyokles</guid>
+            <pubDate>Tue, 20 Oct 2020 02:58:32 GMT</pubDate>
+            <description><![CDATA[Vagy már nem is számít illetlenségnek, csak még mindig belénk nevelik ezt?]]></description>
+            <content:encoded><![CDATA[Alighanem mindenki unásig hallgatta gyerekkorában, hogy az asztalnál ülve nem illik könyökölni - vagy legalább addig, amíg meg nem tanulta ezt az általános érvényűnek tekintett szabályt. De honnan ered ez, és egyáltalán, miért tartják illetlen dolognak az evés közbeni könyöklést?]]></content:encoded>
+            <enclosure url="https://telex.hu/uploads/img-cache/1/6/0/3/1/1603103782-temp-cncjcm-20201019-600-400-zc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Felfüggesztette Nerea Penát a siófoki kézilabdacsapat, az edző lemondott]]></title>
+            <link>https://telex.hu/sport/2020/10/19/felfuggesztette-nerea-penat-a-siofoki-kezilabdacsapat-az-edzo-lemondott</link>
+            <guid>https://telex.hu/sport/2020/10/19/felfuggesztette-nerea-penat-a-siofoki-kezilabdacsapat-az-edzo-lemondott</guid>
+            <pubDate>Mon, 19 Oct 2020 21:53:07 GMT</pubDate>
+            <description><![CDATA[A vb-ezüstérmes spanyol játékos nem játszhat a Siófokban, Bent Dahl vezetőedző szerződést bontott.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Úgy csapták be az ajtót, hogy azért nyitva maradt]]></title>
+            <link>https://telex.hu/kulfold/2020/10/19/brexit-nagy-britannia-eu-boris-johnson-barnier-frost-szabadkereskedelmi-megallapodas</link>
+            <guid>https://telex.hu/kulfold/2020/10/19/brexit-nagy-britannia-eu-boris-johnson-barnier-frost-szabadkereskedelmi-megallapodas</guid>
+            <pubDate>Mon, 19 Oct 2020 20:51:51 GMT</pubDate>
+            <description><![CDATA[Ha a mostani egyeztetések Boris Johnson és az EU között zátonyra futnak a brexit utáni kapcsolatokról, az pont a világjárvánnyal súlyosbítva üthet be jövő év elején. A briteken csattanna leginkább, de az uniós országok is megszenvednék. Mi történik már megint a brexit körül?]]></description>
+            <content:encoded><![CDATA[A koronavírus-járvány sokáig háttérbe szorította brexitet, de az év végi határidő közeledtével megint előtérbe került, miután semmilyen megegyezés nem látszik még a britek és az EU jövőbeli kapcsolatairól. Ha a tárgyalások teljesen zátonyra futnának, és nem tudnak megállapodni, akkor az a járvány miatt különösen nehéz időszakban csattanna a brit és az uniós gazdaságokon is.]]></content:encoded>
+            <enclosure url="https://telex.hu/uploads/img-cache/1/6/0/3/0/1603095713-temp-fmalbk-20201019-600-400-zc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Két helyen tört el a világbajnok bringás keze, miután nekiütközött egy motornak]]></title>
+            <link>https://telex.hu/sport/2020/10/19/julian-alaphilippe-vilagbajnok-kerekparos-serules-kartores-flandria</link>
+            <guid>https://telex.hu/sport/2020/10/19/julian-alaphilippe-vilagbajnok-kerekparos-serules-kartores-flandria</guid>
+            <pubDate>Mon, 19 Oct 2020 20:38:07 GMT</pubDate>
+            <description><![CDATA[A francia Julian Alaphilippe-t hétfőn megműtötték, három hét múlva kezdheti a rehabilitációt.]]></description>
+            <enclosure url="https://telex.hu/uploads/img-cache/1/6/0/3/1/1603139494-temp-cpbmln-20201019-600-400-zc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump azon gúnyolódott, hogy Biden elnökként hallgatna a tudósokra]]></title>
+            <link>https://telex.hu/kulfold/2020/10/19/donald-trump-usa-kampany-joe-biden-koronavirus-tudosok</link>
+            <guid>https://telex.hu/kulfold/2020/10/19/donald-trump-usa-kampany-joe-biden-koronavirus-tudosok</guid>
+            <pubDate>Mon, 19 Oct 2020 20:12:59 GMT</pubDate>
+            <description><![CDATA[Az USA elnöke szerint kihívója, Joe Biden még több korlátozást vezetne be, ha nyerne az elnökválasztáson.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Orosz hackerek a nyári és a téli olimpiát is megtámadták az elmúlt években]]></title>
+            <link>https://telex.hu/kulfold/2020/10/19/gru-oroszorszag-kibertamadas-olimpia-dopping-brit-kulugyminiszterium-fbi</link>
+            <guid>https://telex.hu/kulfold/2020/10/19/gru-oroszorszag-kibertamadas-olimpia-dopping-brit-kulugyminiszterium-fbi</guid>
+            <pubDate>Mon, 19 Oct 2020 19:28:22 GMT</pubDate>
+            <description><![CDATA[A GRU hat tisztje világszerte több kibertámadást követett el, az USA-ban vádat emeltek ellenük.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Súlyos pénzektől estek el a baloldali médiumok a Facebook finomhangolása miatt]]></title>
+            <link>https://telex.hu/tech/2020/10/19/facebook-usa-amerikai-valasztasok</link>
+            <guid>https://telex.hu/tech/2020/10/19/facebook-usa-amerikai-valasztasok</guid>
+            <pubDate>Mon, 19 Oct 2020 18:59:56 GMT</pubDate>
+            <description><![CDATA[Trump megválasztása után variáltak az algoritmuson. Pártatlanok akartak lenni, nem sikerült. ]]></description>
+        </item>
+    </channel>
+</rss>
